@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "my-todos"
+name = "my_todos"
 version = "0.1.0"
